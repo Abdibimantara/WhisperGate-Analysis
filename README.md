@@ -1,2 +1,2 @@
 # WhisperGate-Analysis
-Russia Ukraina Malware 
+Russia-Ukraina Malware 
